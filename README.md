@@ -1,2 +1,2 @@
 # Indexer
-Indexer of ArIS
+Indexer of ARIS
